@@ -1,0 +1,15 @@
+F:\github\csharp-playground\bin\Debug\net7.0\csharp-playground.exe
+F:\github\csharp-playground\bin\Debug\net7.0\csharp-playground.deps.json
+F:\github\csharp-playground\bin\Debug\net7.0\csharp-playground.runtimeconfig.json
+F:\github\csharp-playground\bin\Debug\net7.0\csharp-playground.dll
+F:\github\csharp-playground\bin\Debug\net7.0\csharp-playground.pdb
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.AssemblyInfoInputs.cache
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.AssemblyInfo.cs
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.csproj.CoreCompileInputs.cache
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.sourcelink.json
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.dll
+F:\github\csharp-playground\obj\Debug\net7.0\refint\csharp-playground.dll
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.pdb
+F:\github\csharp-playground\obj\Debug\net7.0\csharp-playground.genruntimeconfig.cache
+F:\github\csharp-playground\obj\Debug\net7.0\ref\csharp-playground.dll
